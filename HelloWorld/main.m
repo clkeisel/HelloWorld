@@ -14,8 +14,6 @@ int main(int argc, const char * argv[]) {
         
         NSLog(@"Hello, World!");
         
-        NSLog(@"This is my second revisions");
-        
     }
     return 0;
 }
